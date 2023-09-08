@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advice Generator App | Frontend Mentor Challenge</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap" rel="stylesheet">
+</head>
+<body>
+      <!----------- Main ------------------->
+   <main>
+
+      <!----------- Advice Container ------------------->
+      <section class="container">
+
+         <!----------- Advice ID ------------------->
+         <p class="upper-case advice-id fs-11 text-neonGreen"> <span class="letter-spacing">Advice</span>
+            <span class="hash-sign">#</span>     
+            <span class="letter-spacing" id="advice-number">117</span></p>
+
+         <!----------- Advice Text ------------------->
+         <p class="advice-details"><q><span class="advice-text text-lightCyan">Loading..........</span></q></p>
+      </section>
+
+         <!----------- Divider ------------------->
+      <picture >
+            <!-- Source for regular screens -->
+         <source class="divider" srcset="pattern-divider-desktop.svg" media="(min-width: 768px)">
+            <!-- Default source for smaller screens -->
+         <img class="divider" src="pattern-divider-mobile.svg" alt="Divider of the content">
+      </picture>      
+
+         <!----------- Dice Button ------------------->
+      <button class="dice bg-neonGreen"><img src="icon-dice.svg" alt="Dice to generate advice"></button>
+   </main>    
+
+        <!-- Attribution -->
+ <footer class="attribution">
+    <h6>Challenge by <a href="https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db" target="_blank">Frontend Mentor</a>.
+       Coded by  <a href="https://github.com/aratidsa/Advice-Generator-App-FrontEndMentor-Challenge" target="_blank">Arati D'sa</a> Here.</h6>
+ </footer>
+    
+    <script src="app.js"></script>
+</body>
+</html>
