@@ -24,11 +24,16 @@ Users should be able to:
 
 ### Screenshot
 
+- Desktop
+ ![Screenshot 2023-09-08 211957](https://github.com/aratidsa/Advice-Generator-App-FrontEndMentor-Challenge/assets/128802362/856426e8-0cb5-404f-b765-8f6222fd1a3b)
 
+- Mobile
+  
+ ![Screenshot 2023-09-08 212032](https://github.com/aratidsa/Advice-Generator-App-FrontEndMentor-Challenge/assets/128802362/18de8761-d105-421b-b035-576b66fd5f4c)
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/aratidsa/Advice-Generator-App-FrontEndMentor-Challenge/tree/main
 - Live Site URL: https://advice-generator-app-design.netlify.app/
 ## My process
 
@@ -42,5 +47,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - 
-- Github - 
+- Github - https://github.com/aratidsa
